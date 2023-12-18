@@ -1,4 +1,4 @@
-# # Cineminds
+## Cineminds
 
 Cineminds é um projeto de recomendação de filmes baseado em conteúdo e filtragem colaborativa. Ele utiliza técnicas de processamento de dados e algoritmos de recomendação para fornecer sugestões personalizadas de filmes com base nas preferências do usuário.
 
@@ -18,7 +18,7 @@ Cineminds é um projeto de recomendação de filmes baseado em conteúdo e filtr
 
 1. Clone o repositório do Cineminds para o seu ambiente local:
    ```
-   git clone https://danielfilho3011@dev.azure.com/danielfilho3011/CINEMINDS/_git/CINEMINDS
+   git clone https://danielfilho3011@dev.azure.com/danielfilho3011/CINEMINDS/_git/CINEMINDS](https://github.com/Dancofilho/CINEMINDS.git)
    ```
 
 2. Instale as dependências necessárias executando o seguinte comando no terminal:
